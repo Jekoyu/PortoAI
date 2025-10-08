@@ -89,7 +89,7 @@ export default function Portfolio() {
             className="font-bold text-xl text-slate-900 dark:text-white"
           >
             <span className="text-emerald-600 dark:text-emerald-500">{"<"}</span>
-            Joko.Dev
+            jekoyu.dev
             <span className="text-emerald-600 dark:text-emerald-500">{"/>"}</span>
           </motion.div>
 
@@ -710,7 +710,7 @@ export default function Portfolio() {
             >
               <div className="font-bold text-2xl mb-2">
                 <span className="text-emerald-500">{"<"}</span>
-                Joko.Dev
+                jekoyu.dev
                 <span className="text-emerald-500">{"/>"}</span>
               </div>
               <p className="text-slate-400">Information Systems Student & Backend Developer</p>
@@ -762,7 +762,7 @@ export default function Portfolio() {
                 </Link>
               </div>
               <div className="flex items-center gap-3">
-                <p className="text-slate-400 text-sm">© {new Date().getFullYear()} Joko.Dev. All rights reserved.</p>
+                <p className="text-slate-400 text-sm">© {new Date().getFullYear()} jekoyu.dev. All rights reserved.</p>
                 <div className="text-xs px-2 py-1 bg-slate-800 rounded-full text-slate-400">
                   {theme === "dark" ? "Dark Mode" : "Light Mode"}
                 </div>
